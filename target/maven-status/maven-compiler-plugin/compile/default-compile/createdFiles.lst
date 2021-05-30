@@ -1,0 +1,6 @@
+beans\action\TablaAction.class
+datos\ConexionSQL.class
+datos\FormularioJDBC.class
+beans\action\FormularioAction.class
+beans\action\IntroAction.class
+domain\Formulario.class
